@@ -1,0 +1,1 @@
+javascript:var item = window.prompt("What blook do you want to get? "); alert(item + " sucessfully bought!"); alert("HACKER!!!!!")
